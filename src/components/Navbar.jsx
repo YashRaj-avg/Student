@@ -13,6 +13,8 @@ const Navbar = () => {
           <NavLinkWithBox to="/" label="Home" />
           <NavLinkWithBox to="/form" label="Form" />
           <NavLinkWithBox to="/data" label="Data" />
+          <NavLinkWithBox to="/courses" label="Course" />
+          
         </div>
       </div>
     </nav>
